@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things.
 - 🌱 I’m currently learning Firebase.
 - 💞️ I’m looking to collaborate on PHP, Elixir, Nodejs. ANYTHING.
-- 📫 How to reach me me@tailornirav.xyz
+- 📫 How to reach nirav@tailornirav.me
 
 <!---
 tailornirav/tailornirav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
