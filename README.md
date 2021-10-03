@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tailornirav
 - 👀 I’m interested in many things.
 - 🌱 I’m currently learning Firebase.
-- 💞️ I’m looking to collaborate on PHP, Elixir, Nodejs. ANYTHING.
+- 💞️ I’m looking to collaborate on Rust.
 - 📫 How to reach nirav@tailornirav.me
 
 <!---
