@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tailornirav
-- 👀 I’m interested in many things.
-- 🌱 I’m currently learning Firebase.
+- 👀 I’m interested in Algorithms, Data structures, Biology, Physics, Chess, Anime.
+- 🌱 I’m currently learning WASM.
 - 💞️ I’m looking to collaborate on Rust.
 - 📫 How to reach myself@tailornirav.me
 
