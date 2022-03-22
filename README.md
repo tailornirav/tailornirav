@@ -2,7 +2,7 @@
 - 👀 I’m interested in Algorithms, Data structures, Biology, Physics, Chess, Anime.
 - 🌱 I’m currently learning WASM.
 - 💞️ I’m looking to collaborate on Rust.
-- 📫 How to reach myself@tailornirav.me
+- 📫 How to reach me@tailornirav.tech
 
 <!---
 tailornirav/tailornirav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
